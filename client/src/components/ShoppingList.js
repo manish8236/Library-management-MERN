@@ -43,16 +43,14 @@ class ShoppingList extends Component {
                   {(this.props.isAuthenticated ) ? (
 
                     <Button
-                      className='remove-btn'
                       color='danger'
                       size='sm'
                       onClick={this.onDeleteClick.bind(this, _id)}
-                    >
-                      &times;
-                    </Button>
+                    ><i class="far fa-trash-alt"></i>
+                </Button>
                 ) : null}
 
-                  {name}
+                 &nbsp;{name}
                 </ListGroupItem>
               </CSSTransition>
             ))}

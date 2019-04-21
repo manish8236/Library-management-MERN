@@ -65,6 +65,7 @@ class ItemModal extends Component {
           <div>
           <h4 className='mb-4 text-center'> <strong>Log in</strong> to access books</h4>
           <HomeCarousel/>
+          <br/>
           </div>
         )}
 

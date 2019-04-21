@@ -11,38 +11,38 @@ import {
 const items = [
   {
     src: require('./images/book1.jpg'),
-    altText: 'Slide 1',
-    caption: 'Slide 1'
+    altText: '',
+    caption: ''
   },
   {
     src: require('./images/book2.jpg'),
-    altText: 'Slide 2',
-    caption: 'Slide 2'
+    altText: '',
+    caption: ' '
   },
   {
     src: require('./images/book3.jpg'),
-    altText: 'Slide 3',
-    caption: 'Slide 3'
+    altText: ' ',
+    caption: ' '
   },
   {
     src: require('./images/book5.jpg'),
-    altText: 'Slide 2',
-    caption: 'Slide 2'
+    altText: ' ',
+    caption: ''
   },
   {
     src: require('./images/book4.jpg'),
-    altText: 'Slide 2',
-    caption: 'Slide 2'
+    altText: '',
+    caption: ''
   },
   {
     src: require('./images/book6.jpg'),
-    altText: 'Slide 2',
-    caption: 'Slide 2'
+    altText: '',
+    caption: ''
   },
   {
     src: require('./images/book7.jpg'),
-    altText: 'Slide 2',
-    caption: 'Slide 2'
+    altText: '',
+    caption: ''
   }
 ];
 
