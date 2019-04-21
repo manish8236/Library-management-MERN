@@ -1,22 +1,22 @@
-This Project uses MERN with redux for state managment. 
-MongoDB, Express.js, React.js, Node.js, Redux.
-ReactStrap is implemented as well to use bootstrap well.
+This Project uses MERN with redux for state managment. <br>
+MongoDB, Express.js, React.js, Node.js, Redux.<br>
+ReactStrap is implemented as well to use bootstrap well.<br>
 
-Library Management System with :
+Library Management System with :<br>
 
-User Registration/LogIn.
-Add Books.
-Remove Books.
-Display Books.
+User Registration/LogIn.<br>
+Add Books.<br>
+Remove Books.<br>
+Display Books.<br>
 
 ### `Replace MongoURI`
 
-Replace MongoURI in ./config/default.js with your atlas MongoURI in-case it does'nt work.
+Replace MongoURI in ./config/default.js with your atlas MongoURI in-case it does'nt work.<br>
 
 
 ### `npm install`
 
-Run npm install in root directory of the project and then in the client directory to install all the dependencies.
+Run npm install in root directory of the project and then in the client directory to install all the dependencies.<br>
 
 ### `npm run dev`
 
