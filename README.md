@@ -18,7 +18,7 @@ Replace MongoURI in ./config/default.js with your atlas MongoURI in-case it does
 
 Run npm install in root directory of the project and then in the client directory to install all the dependencies.<br>
 
-## `Make sure to install the redux dev tools and react plugins on your browser`<br>
+###### `Make sure to install the redux dev tools and react plugins on your browser`<br>
 
 
 ### `npm run dev`
