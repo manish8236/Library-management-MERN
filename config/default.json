@@ -1,4 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Manish:Manish82@libraryapp-xnsj9.mongodb.net/test?retryWrites=true",
+  "mongoURI": "mongodb+srv://username:password@libraryapp-xnsj9.mongodb.net/test?retryWrites=true",
   "jwtSecret": "sl_myJwtSecret"
 }
